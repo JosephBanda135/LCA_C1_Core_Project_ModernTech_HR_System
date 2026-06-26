@@ -1,8 +1,5 @@
 # LCA_C1_Core_Project_ModernTech_HR_System
 
-
-# ModernTech HR Management System
-
 ## Overview
 
 The ModernTech HR Management System is a Human Resources web application built using Vue.js 3 and Vite. The application helps manage employees, payroll, leave requests, and attendance, and provides a dashboard that summarises important HR information.
