@@ -54,7 +54,7 @@ Employee and leave request data are stored using localStorage. Information remai
 
 1. Clone the repository:
 ```
-git clone https://github.com/YOUR-USERNAME/moderntech-hr-system.git
+https://github.com/JosephBanda135/LCA_C1_Core_Project_ModernTech_HR_System.git
 ```
 
 2. Navigate into the project folder:
